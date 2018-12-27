@@ -1,7 +1,4 @@
 spring:
-  application:
-    name: product
-
 #数据库连接
   datasource:
     username: root
